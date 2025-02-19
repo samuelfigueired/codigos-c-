@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\C#\secondProject\bin\Debug\net6.0\secondProject.exe
+C:\Users\samue\Documents\C#\secondProject\bin\Debug\net6.0\secondProject.deps.json
+C:\Users\samue\Documents\C#\secondProject\bin\Debug\net6.0\secondProject.runtimeconfig.json
+C:\Users\samue\Documents\C#\secondProject\bin\Debug\net6.0\secondProject.dll
+C:\Users\samue\Documents\C#\secondProject\bin\Debug\net6.0\secondProject.pdb
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\secondProject.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\secondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\secondProject.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\secondProject.AssemblyInfo.cs
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\secondProject.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\secondProject.dll
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\refint\secondProject.dll
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\secondProject.pdb
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\secondProject.genruntimeconfig.cache
+C:\Users\samue\Documents\C#\secondProject\obj\Debug\net6.0\ref\secondProject.dll
