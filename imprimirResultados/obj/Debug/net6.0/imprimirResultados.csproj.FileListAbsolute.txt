@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\C#\imprimirResultados\bin\Debug\net6.0\imprimirResultados.exe
+C:\Users\samue\Documents\C#\imprimirResultados\bin\Debug\net6.0\imprimirResultados.deps.json
+C:\Users\samue\Documents\C#\imprimirResultados\bin\Debug\net6.0\imprimirResultados.runtimeconfig.json
+C:\Users\samue\Documents\C#\imprimirResultados\bin\Debug\net6.0\imprimirResultados.dll
+C:\Users\samue\Documents\C#\imprimirResultados\bin\Debug\net6.0\imprimirResultados.pdb
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\imprimirResultados.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\imprimirResultados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\imprimirResultados.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\imprimirResultados.AssemblyInfo.cs
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\imprimirResultados.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\imprimirResultados.dll
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\refint\imprimirResultados.dll
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\imprimirResultados.pdb
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\imprimirResultados.genruntimeconfig.cache
+C:\Users\samue\Documents\C#\imprimirResultados\obj\Debug\net6.0\ref\imprimirResultados.dll

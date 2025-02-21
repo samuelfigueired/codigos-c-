@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\C#\LerResultado\bin\Debug\net6.0\LerResultado.exe
+C:\Users\samue\Documents\C#\LerResultado\bin\Debug\net6.0\LerResultado.deps.json
+C:\Users\samue\Documents\C#\LerResultado\bin\Debug\net6.0\LerResultado.runtimeconfig.json
+C:\Users\samue\Documents\C#\LerResultado\bin\Debug\net6.0\LerResultado.dll
+C:\Users\samue\Documents\C#\LerResultado\bin\Debug\net6.0\LerResultado.pdb
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\LerResultado.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\LerResultado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\LerResultado.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\LerResultado.AssemblyInfo.cs
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\LerResultado.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\LerResultado.dll
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\refint\LerResultado.dll
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\LerResultado.pdb
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\LerResultado.genruntimeconfig.cache
+C:\Users\samue\Documents\C#\LerResultado\obj\Debug\net6.0\ref\LerResultado.dll

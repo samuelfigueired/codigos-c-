@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\C#\areaCubo\bin\Debug\net6.0\areaCubo.exe
+C:\Users\samue\Documents\C#\areaCubo\bin\Debug\net6.0\areaCubo.deps.json
+C:\Users\samue\Documents\C#\areaCubo\bin\Debug\net6.0\areaCubo.runtimeconfig.json
+C:\Users\samue\Documents\C#\areaCubo\bin\Debug\net6.0\areaCubo.dll
+C:\Users\samue\Documents\C#\areaCubo\bin\Debug\net6.0\areaCubo.pdb
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\areaCubo.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\areaCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\areaCubo.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\areaCubo.AssemblyInfo.cs
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\areaCubo.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\areaCubo.dll
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\refint\areaCubo.dll
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\areaCubo.pdb
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\areaCubo.genruntimeconfig.cache
+C:\Users\samue\Documents\C#\areaCubo\obj\Debug\net6.0\ref\areaCubo.dll

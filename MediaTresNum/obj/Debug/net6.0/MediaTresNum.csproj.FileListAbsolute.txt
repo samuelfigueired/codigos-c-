@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\MediaTresNum.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\MediaTresNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\MediaTresNum.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\MediaTresNum.AssemblyInfo.cs
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\MediaTresNum.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\C#\MediaTresNum\bin\Debug\net6.0\MediaTresNum.exe
+C:\Users\samue\Documents\C#\MediaTresNum\bin\Debug\net6.0\MediaTresNum.deps.json
+C:\Users\samue\Documents\C#\MediaTresNum\bin\Debug\net6.0\MediaTresNum.runtimeconfig.json
+C:\Users\samue\Documents\C#\MediaTresNum\bin\Debug\net6.0\MediaTresNum.dll
+C:\Users\samue\Documents\C#\MediaTresNum\bin\Debug\net6.0\MediaTresNum.pdb
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\MediaTresNum.dll
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\refint\MediaTresNum.dll
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\MediaTresNum.pdb
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\MediaTresNum.genruntimeconfig.cache
+C:\Users\samue\Documents\C#\MediaTresNum\obj\Debug\net6.0\ref\MediaTresNum.dll
